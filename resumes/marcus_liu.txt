@@ -1,0 +1,28 @@
+Marcus Liu
+marcus.liu@email.com | linkedin.com/in/marcusliu
+
+SUMMARY
+Web developer with 4 years experience building client-facing applications.
+Comfortable with modern JavaScript frameworks and REST API integration.
+
+EXPERIENCE
+
+Full Stack Developer — Freelance  (2021 – Present)
+- Built 12+ websites for small businesses using React and Next.js
+- Integrated third-party REST APIs and Stripe payment gateway
+- Used Redux for state management on two larger projects
+- Basic unit testing with Jest on client request
+
+Junior Web Developer — LocalAgency Co.  (2019 – 2021)
+- Developed responsive HTML/CSS/JavaScript websites from Figma designs
+- Learned React on the job; built internal CMS admin panel
+- Worked with MySQL and PHP backends
+- Used Git for version control
+
+TECHNICAL SKILLS
+React, JavaScript (ES6), HTML5, CSS3, jQuery, PHP, MySQL,
+Git, some TypeScript, basic Node.js, Figma
+
+EDUCATION
+Web Development Bootcamp — CodeCamp, 2019  (Certificate)
+Associate Degree, Information Technology — City College, 2018
