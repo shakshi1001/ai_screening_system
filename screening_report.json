@@ -1,0 +1,80 @@
+{
+  "job_description_snippet": "Senior Frontend Engineer \u2014 TechFlow Inc.\n\nWe are looking for a skilled Senior Frontend Engineer to join our fast-growing product team.\n\nRESPONSIBILITIES\n- Build and maintain high-performance React applications used by thousands of customers\n- Collaborate with design and backend teams to implement features end-to-end\n- Write clean, well-tested, and documented code\n- Contribute to frontend architecture decisions and code reviews\n- Mentor junior developers\n\nREQUIREMENTS\n- 4+ years of professional e",
+  "total_candidates": 3,
+  "top_candidate": "Priya Sharma",
+  "candidates": [
+    {
+      "rank": 1,
+      "name": "Priya Sharma",
+      "file": "priya_sharma.txt",
+      "ai_score": 28,
+      "tfidf_similarity": 0.2858,
+      "recommendation": "Match",
+      "matched_skills": [
+        "experience",
+        "frontend",
+        "senior",
+        "react",
+        "code"
+      ],
+      "critical_gaps": [
+        "engineer",
+        "design",
+        "backend",
+        "familiarity",
+        "techflow"
+      ],
+      "summary": "TF-IDF similarity: 28%",
+      "education_fit": "N/A",
+      "experience_years": null
+    },
+    {
+      "rank": 2,
+      "name": "Ayesha Noor",
+      "file": "ayesha_noor.txt",
+      "ai_score": 18,
+      "tfidf_similarity": 0.1895,
+      "recommendation": "Match",
+      "matched_skills": [
+        "experience",
+        "frontend",
+        "react",
+        "testing",
+        "product"
+      ],
+      "critical_gaps": [
+        "senior",
+        "engineer",
+        "design",
+        "backend",
+        "code"
+      ],
+      "summary": "TF-IDF similarity: 18%",
+      "education_fit": "N/A",
+      "experience_years": null
+    },
+    {
+      "rank": 3,
+      "name": "Marcus Liu",
+      "file": "marcus_liu.txt",
+      "ai_score": 16,
+      "tfidf_similarity": 0.1656,
+      "recommendation": "Match",
+      "matched_skills": [
+        "experience",
+        "react",
+        "testing"
+      ],
+      "critical_gaps": [
+        "frontend",
+        "senior",
+        "engineer",
+        "design",
+        "backend"
+      ],
+      "summary": "TF-IDF similarity: 16%",
+      "education_fit": "N/A",
+      "experience_years": null
+    }
+  ]
+}

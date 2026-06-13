@@ -1,0 +1,26 @@
+Senior Frontend Engineer — TechFlow Inc.
+
+We are looking for a skilled Senior Frontend Engineer to join our fast-growing product team.
+
+RESPONSIBILITIES
+- Build and maintain high-performance React applications used by thousands of customers
+- Collaborate with design and backend teams to implement features end-to-end
+- Write clean, well-tested, and documented code
+- Contribute to frontend architecture decisions and code reviews
+- Mentor junior developers
+
+REQUIREMENTS
+- 4+ years of professional experience with React.js and modern JavaScript (ES6+)
+- Strong proficiency in TypeScript, HTML5, and CSS3
+- Experience with state management solutions (Redux, Zustand, or similar)
+- Familiarity with GraphQL and RESTful APIs
+- Experience with testing frameworks (Jest, React Testing Library, Cypress)
+- Knowledge of CI/CD pipelines and Git workflows
+- Understanding of web performance optimization techniques
+- Bachelor's degree in Computer Science or related field preferred
+
+NICE TO HAVE
+- Experience with Node.js and backend development
+- Familiarity with AWS or cloud infrastructure
+- Open-source contributions
+- Experience building or maintaining design systems or Storybook
