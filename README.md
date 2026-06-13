@@ -104,7 +104,6 @@ resume_screening/
 ├── resume_screener.py
 ├── requirements.txt
 ├── README.md
-├── screening_report.json
 └── resumes/
 ```
 
