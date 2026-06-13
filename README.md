@@ -89,14 +89,6 @@ Screening Report
 
 ---
 
-## Output
-
-| File | Description |
-|------|-------------|
-| screening_report.json | Ranked candidate results and analysis summary |
-
----
-
 ## Project Structure
 
 ```text
